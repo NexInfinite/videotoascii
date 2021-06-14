@@ -4,6 +4,8 @@ A python generator that converts youtube videos to ascii art in your console.
 
 # How to use
 Download the project as a zip, extract everything and then run the command below. Make sure to include `frames`.
+### Installation
+run `pip3 install youtube_dl opencv-python sty cursor pillow`
 ### Basic Command
 `python3 main.py https://youtube.com/watch?v=VIDEOID`
 
