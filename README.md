@@ -9,5 +9,5 @@ Download the project as a zip, extract everything and then run the command below
 
 ### Arguments
 - `--framerate` this was used in the old version, may not work as of now
-- `--buffer` buffer the whole video before rendering, this will freeze at "Buffering x/x" until done
+- `--buffer` buffer the whole video before rendering, this will freeze at "Buffering x/x" until done (recommended to be off)
 
