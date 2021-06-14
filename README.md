@@ -1,7 +1,9 @@
 # Video To ASCII
-A python generator that converts youtube videos to ascii art in your console.
+A python generator that converts youtube videos to ascii art in your console. 
+> This has not been tested for windows!
 
 # How to use
+Download the project as a zip, extract everything and then run the command below. Make sure to include `frames`.
 ### Basic Command
 `python3 main.py https://youtube.com/watch?v=VIDEOID`
 
