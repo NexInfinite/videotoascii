@@ -59,7 +59,7 @@ def resize_image(_image):
 
 def render_frame_buffer(thread):
     global image_buffer, buffer
-    # Rendering an ascii image and adding to the queue
+    # Rendering an ascii image and adding to the queue to be used later
     for frame in range(image_buffer):
         if frame % 3 == thread:
             # Using mod so that they render in sync
