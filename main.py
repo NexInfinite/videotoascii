@@ -75,7 +75,7 @@ def render_frame_buffer(thread):
 
 
 def get_x_frame(x, y, height, width, outputs, pix):
-    # Render each column (x) of an image using recursion
+    # Render each column (x) of an image using recursion.
     if x == width - 2:
         return outputs  # <-- The classic recursion ocr question (this is where the recursion occurs)
     else:
