@@ -18,3 +18,9 @@ run `pip3 install youtube_dl opencv-python sty cursor pillow`
 - `--framerate` this was used in the old version, may not work as of now
 - `--buffer` buffer the whole video before rendering, this will freeze at "Buffering x/x" until done (recommended to be off)
 
+# Todo
+- [ ] Add CLI
+- [ ] Allow for other modes
+- [ ] Make it easier to use
+- [ ] Allow to capture screen
+
