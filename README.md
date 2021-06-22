@@ -2,6 +2,9 @@
 A python generator that converts youtube videos to ascii art in your console. 
 > This has not been tested for windows!
 
+# Example
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x2CgemU_bmQ/0.jpg)](https://www.youtube.com/watch?v=x2CgemU_bmQ)
+
 # How to use
 Download the project as a zip, extract everything and then run the command below. Make sure to include `frames`.
 ### Installation
