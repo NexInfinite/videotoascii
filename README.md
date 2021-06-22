@@ -23,4 +23,5 @@ run `pip3 install youtube_dl opencv-python sty cursor pillow`
 - [ ] Allow for other modes
 - [ ] Make it easier to use
 - [ ] Allow to capture screen
+- [ ] Allow for winodws
 
