@@ -30,6 +30,6 @@ run `pip3 install youtube_dl opencv-python sty cursor pillow mss`
 - [x] Add CLI
 - [x] Allow for other modes
 - [x] Make it easier to use
-- [x] Allow to capture screen
-- [ ] Allow for winodws
+- [x] Allow screen capture real time
+- [ ] Allow for windows
 
