@@ -3,7 +3,7 @@ A python generator that converts youtube videos to ascii art in your console.
 > This has not been tested for windows!
 
 # Example
-### No video mode
+### Normal mode
 ![Gif Not Loaded](nonvideomode.gif)
 
 ### Video mode
