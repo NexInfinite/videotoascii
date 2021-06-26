@@ -22,9 +22,10 @@ run `pip3 install youtube_dl opencv-python sty cursor pillow mss`
 `python3 ascii.py`
 
 ### Arguments
-- `--framerate` this was used in the old version, may not work as of now
-- `--buffer` buffer the whole video before rendering, this will freeze at "Buffering x/x" until done (recommended to be off)
-- `--video_mode` changes to video mode if True
+These arguments only work for running `python3 video_render.py`, you should really be running `python3 ascii.py` which does all of this for you.
+- `--framerate=int` this was used in the old version, may not work as of now
+- `--buffer=int` buffer the whole video before rendering, this will freeze at "Buffering x/x" until done (recommended to be off)
+- `--video_mode=bool` changes to video mode if True
 
 # Todo
 - [x] Add CLI
