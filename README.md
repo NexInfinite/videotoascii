@@ -17,7 +17,7 @@ To see the full video click [here](https://www.youtube.com/watch?v=x2CgemU_bmQ)!
 # How to use
 Download the project as a zip, extract everything and then run the command below. Make sure to include `frames`.
 ### Installation
-run `pip3 install youtube_dl opencv-python sty cursor pillow`
+run `pip3 install youtube_dl opencv-python sty cursor pillow mss`
 ### Basic Command
 `python3 ascii.py`
 
