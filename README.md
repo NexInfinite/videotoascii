@@ -12,16 +12,17 @@ Download the project as a zip, extract everything and then run the command below
 ### Installation
 run `pip3 install youtube_dl opencv-python sty cursor pillow`
 ### Basic Command
-`python3 main.py https://youtube.com/watch?v=VIDEOID`
+`python3 ascii.py`
 
 ### Arguments
 - `--framerate` this was used in the old version, may not work as of now
 - `--buffer` buffer the whole video before rendering, this will freeze at "Buffering x/x" until done (recommended to be off)
+- `--video_mode` changes to video mode if True
 
 # Todo
-- [ ] Add CLI
-- [ ] Allow for other modes
-- [ ] Make it easier to use
-- [ ] Allow to capture screen
+- [x] Add CLI
+- [x] Allow for other modes
+- [x] Make it easier to use
+- [x] Allow to capture screen
 - [ ] Allow for winodws
 
